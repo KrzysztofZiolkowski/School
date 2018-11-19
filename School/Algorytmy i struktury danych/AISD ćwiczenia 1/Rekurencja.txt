@@ -1,0 +1,45 @@
+using System;
+
+namespace asdf
+{
+	
+	class rekursja
+		{
+			int rekurencja(int liczba)
+				{
+					if(liczba!=0)
+						{
+							if(liczba%2==0)
+								{
+									Console.WriteLine("c");
+									return rekurencja(liczba/2);
+								}
+						
+						
+							else
+						
+								{
+									Console.WriteLine("b");
+									return rekurencja(liczba/2);
+								}
+						
+						
+						}
+					
+					
+					else {return 0;}
+				}
+	
+	
+			public static void Main(string[] args)
+				{
+					int liczba=9;
+					rekursja obiektRekursja=new rekursja();
+					obiektRekursja.rekurencja(liczba);
+					Console.ReadLine();
+				}
+		
+		}
+	
+}
+	

@@ -1,0 +1,21 @@
+C:\Users\Ziole\Desktop\Choinka\Choinka\bin\Debug\Choinka.exe.config
+C:\Users\Ziole\Desktop\Choinka\Choinka\bin\Debug\Choinka.exe
+C:\Users\Ziole\Desktop\Choinka\Choinka\bin\Debug\Choinka.pdb
+C:\Users\Ziole\Desktop\Choinka\Choinka\obj\Debug\Choinka.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\Desktop\Choinka\Choinka\obj\Debug\Choinka.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\Desktop\Choinka\Choinka\obj\Debug\Choinka.exe
+C:\Users\Ziole\Desktop\Choinka\Choinka\obj\Debug\Choinka.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\bin\Debug\Choinka.exe.config
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\bin\Debug\Choinka.exe
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\bin\Debug\Choinka.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\obj\Debug\Choinka.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\obj\Debug\Choinka.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\obj\Debug\Choinka.exe
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\obj\Debug\Choinka.pdb
+C:\Users\KraV\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\bin\Debug\Choinka.exe.config
+C:\Users\KraV\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\bin\Debug\Choinka.exe
+C:\Users\KraV\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\bin\Debug\Choinka.pdb
+C:\Users\KraV\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\obj\Debug\Choinka.csprojAssemblyReference.cache
+C:\Users\KraV\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\obj\Debug\Choinka.csproj.CoreCompileInputs.cache
+C:\Users\KraV\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\obj\Debug\Choinka.exe
+C:\Users\KraV\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 7\Choinka\Choinka\Choinka\obj\Debug\Choinka.pdb

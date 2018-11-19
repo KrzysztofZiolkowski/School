@@ -1,0 +1,14 @@
+C:\Users\Ziole\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ziole\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ziole\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ziole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ziole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 6\ConsoleApp1\ConsoleApp1\bin\Debug\Kopiec.exe.config
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 6\ConsoleApp1\ConsoleApp1\bin\Debug\Kopiec.exe
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 6\ConsoleApp1\ConsoleApp1\bin\Debug\Kopiec.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 6\ConsoleApp1\ConsoleApp1\obj\Debug\Kopiec.exe
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\AISD\AISD ćwiczenia 6\ConsoleApp1\ConsoleApp1\obj\Debug\Kopiec.pdb

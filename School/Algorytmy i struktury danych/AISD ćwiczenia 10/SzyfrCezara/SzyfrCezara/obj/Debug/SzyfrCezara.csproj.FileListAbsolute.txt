@@ -1,0 +1,7 @@
+C:\Users\Ziole\source\repos\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.exe.config
+C:\Users\Ziole\source\repos\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.exe
+C:\Users\Ziole\source\repos\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.pdb
+C:\Users\Ziole\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.exe
+C:\Users\Ziole\source\repos\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.pdb

@@ -1,0 +1,57 @@
+using System; 
+using System.Collections.Generic; 
+using System.Linq; 
+using System.Text; 
+using System.Threading.Tasks; 
+  
+namespace ConsoleApplication3 
+{ 
+    class Program 
+    { 
+        static void Main(string[] args) 
+        { 
+        } 
+  
+        void koktajlowe (int []tablica, int dlugosc)  
+            {  
+                int bottom = 0;  
+                int top = dlugosc - 1;  
+                bool zamiana = true;  
+                while(zamiana == true)  
+                    {  
+                        zamiana = false;  
+                        for(int i = bottom; i < top; i++)  
+                            {  
+                                if(tablica[i] > tablica[i + 1])  
+                                    {  
+                                        int tmp;  
+                                        tmp = tablica[i +1];  
+                                        tablica[i] = tablica[i + 1];  
+                                        tablica[i + 1] = tmp;  
+                                        zamiana = true;  
+                                    }  
+                            }  
+             
+  
+                        top = top - 1;  
+                        for(int i = top; i > bottom; i--)  
+                            {  
+                                if(tablica[i] < tablica[i - 1])  
+                                    {  
+                                        int tmp;  
+                                        tmp = tablica[i - 1];  
+                                        tablica[i - 1] = tablica[i];  
+                                        tablica[i - 1] = tmp;  
+                                        zamiana = true;  
+                                    }  
+                            }  
+  
+  
+            bottom = bottom + 1; 
+            Console.ReadLine(); 
+                    }  
+             }  
+  
+    } 
+} 
+ 

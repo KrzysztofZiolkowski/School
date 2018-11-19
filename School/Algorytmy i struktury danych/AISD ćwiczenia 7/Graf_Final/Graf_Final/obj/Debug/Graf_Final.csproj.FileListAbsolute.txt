@@ -1,0 +1,6 @@
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Graf_Final\Graf_Final\bin\Debug\Graf_Final.exe.config
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Graf_Final\Graf_Final\bin\Debug\Graf_Final.exe
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Graf_Final\Graf_Final\bin\Debug\Graf_Final.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Graf_Final\Graf_Final\obj\Debug\Graf_Final.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Graf_Final\Graf_Final\obj\Debug\Graf_Final.exe
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 7\Graf_Final\Graf_Final\obj\Debug\Graf_Final.pdb

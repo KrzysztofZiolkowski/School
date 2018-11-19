@@ -1,0 +1,97 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Quicksort
+    {
+    public void FunctionQuicksort(int[] tablica, int l, int r)
+        {
+            
+            if (l+1<r)
+            {
+                int pivot;
+                pivot = PodzielTablice(tablica, l, r);
+                FunctionQuicksort(tablica, pivot, r);
+                FunctionQuicksort(tablica, l, pivot-1);
+            }
+            if (l<r)
+            {
+                int pivot;
+                pivot = PodzielTablice(tablica, l, r);
+                FunctionQuicksort(tablica, pivot+1, r);
+                FunctionQuicksort(tablica, l, pivot - 1);
+            }
+
+
+        }
+
+    public int PodzielTablice(int[] tablica, int l, int r)
+        {
+            int wartoscPodzialu = WybierzPunktPodzialu(l, r, tablica);
+            int aktualnaPozycja = l;
+            for (int i=l; i<=r;i++)
+            {
+                if (tablica[i]<wartoscPodzialu)
+                {
+                    Zamien(tablica, i, aktualnaPozycja);
+                    aktualnaPozycja = aktualnaPozycja + 1;
+                } 
+            }
+            
+            return aktualnaPozycja;
+        }
+    public int WybierzPunktPodzialu(int l,int r, int[] tablica)
+        {
+            //pierwszy wariant
+            int srodek = l+(r-l)/2;
+            return (int)Math.Pow((tablica[l] * tablica[r] * tablica[srodek]), 0.33333);
+            //drugi wariant
+            //int l1, l2;
+            //Random rnd = new Random();
+            //l1 = tablica[rnd.Next(l, r)];
+            //l2 = tablica[rnd.Next(l, r)];
+            //return (l1 + l2) / 2;
+        }
+        
+      public void Zamien(int[] tablica, int i1, int i2)
+        {
+            int tmp = tablica[i1];
+            tablica[i1] = tablica[i2];
+            tablica[i2] = tmp;
+        }
+
+    }
+    
+
+
+
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            int[] tablica;
+            tablica = new int[7];
+            tablica[0] = 55;
+            tablica[1] = 90;
+            tablica[2] = 89;
+            tablica[3] = 25;
+            tablica[4] = 105;
+            tablica[5] = 5;
+            tablica[6] = 555;
+            int l = 0;
+            int r = tablica.Length-1;
+            Quicksort o1 = new Quicksort();
+            o1.FunctionQuicksort(tablica, l, r);
+            for (int i=0;i<=r;i++)
+            {
+                Console.WriteLine(tablica[i]);
+            }
+            Console.ReadKey();
+        }
+    }
+}

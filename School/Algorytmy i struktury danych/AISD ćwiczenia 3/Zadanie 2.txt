@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+//Napisz program w którym:
+//? Wylosujesz liczby do tablicy
+//? Wypiszesz na ekran œrodkowy element tablicy
+//? ZnajdŸ najmniejszy element w tablicy i wypisz go ekranie
+
+
+namespace Zadanie2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Console.WriteLine("Podaj d³ugoœæ tablicy [a]");
+            //int a = Convert.ToInt32(Console.ReadLine());
+
+            //int[] tablica = new int[a];
+
+            int[] tablica = new int[11];
+
+            var rand = new Random();
+            for (int i = 0; i < tablica.Length; i++)
+            {
+                tablica[i] = rand.Next(10);
+                Console.WriteLine("{0} element tablicy to: {1}", i, tablica[i] );
+            }
+
+            Console.WriteLine("Œrodkowy element ma indeks: {0} a jego wartoœæ to: {1} ",tablica.Length/2, tablica[tablica.Length/2] );
+
+            int wynik = tablica[0];
+            for (int j = 1; j < tablica.Length; j++)
+            {
+                if (wynik > tablica[j])
+                {
+                    wynik = tablica[j];
+                }
+            }
+            Console.WriteLine("Najmniejszy element to: {0} ", wynik);
+            Console.ReadKey();
+            
+
+        }
+    }
+}

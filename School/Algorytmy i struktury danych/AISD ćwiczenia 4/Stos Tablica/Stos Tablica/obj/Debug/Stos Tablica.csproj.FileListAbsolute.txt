@@ -1,0 +1,14 @@
+C:\Users\Ziole\source\repos\Stos Tablica\Stos Tablica\bin\Debug\Stos Tablica.exe.config
+C:\Users\Ziole\source\repos\Stos Tablica\Stos Tablica\bin\Debug\Stos Tablica.exe
+C:\Users\Ziole\source\repos\Stos Tablica\Stos Tablica\bin\Debug\Stos Tablica.pdb
+C:\Users\Ziole\source\repos\Stos Tablica\Stos Tablica\obj\Debug\Stos Tablica.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\source\repos\Stos Tablica\Stos Tablica\obj\Debug\Stos Tablica.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\source\repos\Stos Tablica\Stos Tablica\obj\Debug\Stos Tablica.exe
+C:\Users\Ziole\source\repos\Stos Tablica\Stos Tablica\obj\Debug\Stos Tablica.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos Tablica\Stos Tablica\bin\Debug\Stos Tablica.exe.config
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos Tablica\Stos Tablica\bin\Debug\Stos Tablica.exe
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos Tablica\Stos Tablica\bin\Debug\Stos Tablica.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos Tablica\Stos Tablica\obj\Debug\Stos Tablica.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos Tablica\Stos Tablica\obj\Debug\Stos Tablica.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos Tablica\Stos Tablica\obj\Debug\Stos Tablica.exe
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos Tablica\Stos Tablica\obj\Debug\Stos Tablica.pdb

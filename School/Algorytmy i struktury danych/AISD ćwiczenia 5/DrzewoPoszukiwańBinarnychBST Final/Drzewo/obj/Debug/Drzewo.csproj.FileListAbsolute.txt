@@ -1,0 +1,21 @@
+C:\Users\Ziole\source\repos\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\source\repos\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\source\repos\DrzewoBinarneFinal\Drzewo\Drzewo\bin\Debug\Drzewo.exe.config
+C:\Users\Ziole\source\repos\DrzewoBinarneFinal\Drzewo\Drzewo\bin\Debug\Drzewo.exe
+C:\Users\Ziole\source\repos\DrzewoBinarneFinal\Drzewo\Drzewo\bin\Debug\Drzewo.pdb
+C:\Users\Ziole\source\repos\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.exe
+C:\Users\Ziole\source\repos\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 6\DrzewoBinarneFinal\Drzewo\Drzewo\bin\Debug\Drzewo.exe.config
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 6\DrzewoBinarneFinal\Drzewo\Drzewo\bin\Debug\Drzewo.exe
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 6\DrzewoBinarneFinal\Drzewo\Drzewo\bin\Debug\Drzewo.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 6\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 6\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 6\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.exe
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 6\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 5\DrzewoBinarneFinal\Drzewo\Drzewo\bin\Debug\Drzewo.exe.config
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 5\DrzewoBinarneFinal\Drzewo\Drzewo\bin\Debug\Drzewo.exe
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 5\DrzewoBinarneFinal\Drzewo\Drzewo\bin\Debug\Drzewo.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 5\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 5\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 5\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.exe
+C:\Users\Ziole\Dysk Google\STUDIA\PROGRAMOWANIE\repos\AISD\AISD ćwiczenia 5\DrzewoBinarneFinal\Drzewo\Drzewo\obj\Debug\Drzewo.pdb

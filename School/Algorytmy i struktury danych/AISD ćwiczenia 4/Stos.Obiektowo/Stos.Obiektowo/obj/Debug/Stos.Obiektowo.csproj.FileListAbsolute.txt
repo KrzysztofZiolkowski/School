@@ -1,0 +1,7 @@
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos.Obiektowo\Stos.Obiektowo\bin\Debug\Stos.Obiektowo.exe.config
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos.Obiektowo\Stos.Obiektowo\bin\Debug\Stos.Obiektowo.exe
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos.Obiektowo\Stos.Obiektowo\bin\Debug\Stos.Obiektowo.pdb
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos.Obiektowo\Stos.Obiektowo\obj\Debug\Stos.Obiektowo.csprojResolveAssemblyReference.cache
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos.Obiektowo\Stos.Obiektowo\obj\Debug\Stos.Obiektowo.csproj.CoreCompileInputs.cache
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos.Obiektowo\Stos.Obiektowo\obj\Debug\Stos.Obiektowo.exe
+C:\Users\Ziole\Dysk Google\STUDIA\II ROK\Programowanie i Struktury Danych\repos\AISD\AISD ćwiczenia 4\Stos.Obiektowo\Stos.Obiektowo\obj\Debug\Stos.Obiektowo.pdb

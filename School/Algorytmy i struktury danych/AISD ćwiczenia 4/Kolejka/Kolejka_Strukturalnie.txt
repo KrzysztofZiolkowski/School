@@ -1,0 +1,108 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Kolejka_Strukturalnie
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {//================================================================================MAIN
+            Console.WriteLine("WprowadŸ wielkoœæ kolejki[a]:");
+            int a = Convert.ToInt32(Console.ReadLine()); // np wprowadzam 4
+            int[] tablica = new int[a + 1]; // tablica musi miec 5, 0 zarezerwowane dla info o stosie pustym.
+
+            int wybor;
+            int rozmiar = a + 1;
+            int size = a + 1;
+            do
+            {
+                Console.Clear();
+                if (rozmiar == 0)
+                {
+                    Console.WriteLine("Pozosta³o miejsc: {0}", rozmiar == 0);
+
+                }
+
+                else
+                {
+                    Console.WriteLine("Pozosta³o miejsc: {0}", rozmiar - 1);
+
+                }
+
+                Console.WriteLine("");
+                Console.WriteLine("Elementy w kolejce");
+
+                for (int c = 1; c < size; c++)
+                {
+                    Console.Write("{0} ,", tablica[c]);
+                }
+
+                Console.WriteLine("");
+                Console.WriteLine("==================================================");
+                Console.WriteLine("Co chcesz zrobiæ?");
+                Console.WriteLine("1. (PUSH) Dodaj element na koniec kolejki ");
+                Console.WriteLine("2. (POP) Zdejmij element z koñca kolejki");
+                Console.WriteLine("3. Zakoñcz program");
+
+                
+
+                wybor = Convert.ToInt32(Console.ReadLine());
+
+                switch (wybor)
+                {
+                    case 1:
+                        push();
+                        break;
+
+                    case 2:
+                        pop();
+                        break;
+                }
+            }
+
+            while (wybor != 3);
+            //==========================================================================WYSWIETL INFO
+
+            //==========================================================================PUSH
+            void push()
+            {
+                if (rozmiar > 1)
+                {
+                    Console.WriteLine("Jak¹ liczbê chcesz wprowadziæ do kolejki?");
+                    rozmiar = rozmiar - 1;
+                    int b = Convert.ToInt32(Console.ReadLine());
+                    tablica[rozmiar] = b;
+                    /*Console.WriteLine("tab[4]= {0}", tablica[4])*/
+
+                }
+
+                else
+                {
+                    Console.WriteLine("KOLEJKA PE£NA");
+                    Console.ReadKey();
+                }
+            }
+            //==========================================================================POP
+            void pop()
+            {
+                if (rozmiar < size)
+                {
+                    Console.WriteLine("Usuniêto liczbê: {0}", tablica[rozmiar]);
+                    tablica[rozmiar] = 0;
+                    rozmiar++;
+                    Console.ReadKey();
+                }
+
+                else
+                {
+                    Console.WriteLine("KOLEJKA PUSTA");
+                    Console.ReadKey();
+                }
+            }
+
+        }
+    }
+}

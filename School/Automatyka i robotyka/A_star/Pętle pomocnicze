@@ -1,0 +1,19 @@
+'''
+Wpisy pomocnicze do pierwszej pętli while ( wkleić na koniec )
+print("\n",grid)
+print("\n Długość listy otwartej:", open_list.__len__())
+print("Długość listy zamkniętej", closed_list.__len__(),"\n")
+
+for elements in closed_list:
+    print("El. lista zamknięta: ", elements)
+
+for elements in open_list:
+    print("El. lista otwarta: ", elements)
+'''
+"""
+ Wybieranie najmniejszego f poprzez sortowanie listy otwartej
+ open_list.sort(key=lambda x: x.f)
+ current_node= open_list[0]
+ closed_list.append(open_list[0])
+ del open_list[0]
+"""

@@ -1,0 +1,116 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Stos.Obiektowo
+{
+    class Stos
+    {
+        int[] tablica;
+        int rozmiar;
+        int size;
+
+        public Stos(int size)
+        {
+            tablica = new int[size+1];
+            rozmiar = 0;
+            this.size = size+1;
+        }
+
+        public void Push()
+        {
+
+            if (rozmiar >= size-1)
+            {
+                Console.WriteLine("Stos jest pe³ny");
+                Console.ReadLine();
+            }
+            
+            else 
+            {
+                Console.WriteLine("Jak¹ liczbê chcesz wrzuciæ na stos?");
+                rozmiar = rozmiar + 1;
+                tablica[rozmiar] = Convert.ToInt32(Console.ReadLine());
+
+            }
+        }
+
+        public void Pop()
+        {
+
+            if (rozmiar == 0) { Console.WriteLine("STOS JEST PUSTY!, NIE MO¯NA WYKONAÆ POP"); Console.ReadLine(); }
+            else
+            {
+                Console.WriteLine("Usun¹³eœ liczbê {0} ze stosu", tablica[rozmiar]);
+                rozmiar = rozmiar - 1;
+             
+            }
+        }
+
+        public void Wyswietl_Stos()
+        {
+            
+
+                Console.Clear();
+                Console.WriteLine("Liczby w stosie:");
+                Console.WriteLine("Bufor: {0}, zape³nienie: {1}", size-1, rozmiar);
+
+                for(int i=rozmiar; i>=1;i--)
+            {
+                Console.WriteLine(tablica[i]);
+            }
+            
+
+                if (rozmiar == 0) Console.WriteLine("Stos pusty");
+          
+
+
+        }
+
+
+
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Podaj ile liczb ma mieœciæ stos");
+                int z = Convert.ToInt32(Console.ReadLine());
+                Stos obiekt1 = new Stos(z);
+
+                
+
+                int wybor;
+                do
+                {
+                    obiekt1.Wyswietl_Stos();
+
+                   
+                    Console.WriteLine("===========================================", z);
+                    Console.WriteLine("");
+                    Console.WriteLine("Co chcesz zrobiæ ? ");
+                    Console.WriteLine("1. (PUSH) WprowadŸ kolejny element na stos");
+                    Console.WriteLine("2. (POP) Zabierz element ze stosu");
+                    Console.WriteLine("3. Zakoñcz");
+                    wybor = Convert.ToInt32(Console.ReadLine());
+
+                    
+                    switch (wybor)
+                    {
+                        case 1:
+                            obiekt1.Push();
+                            break;
+                        case 2:
+                            obiekt1.Pop();
+                            break;
+                    }
+
+                }
+
+                while (wybor != 3);
+                
+            }
+        }
+    }
+}
